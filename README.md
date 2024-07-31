@@ -1,0 +1,1 @@
+# PINNs-to-solve-the-Poisson-differential-equation
