@@ -1,0 +1,4 @@
+/tmp/tmpj9i30pq7/dolfin_subdomain_90d05b18fe6c23be1d98b4f5abf13ec4.cpp: In member function 'virtual bool dolfin::dolfin_subdomain_90d05b18fe6c23be1d98b4f5abf13ec4::inside(Eigen::Ref<const Eigen::Matrix<double, -1, 1> >, bool) const':
+/tmp/tmpj9i30pq7/dolfin_subdomain_90d05b18fe6c23be1d98b4f5abf13ec4.cpp:63:17: error: 'np' was not declared in this scope
+   63 |          return np.isclose(x[0], 0);
+      |                 ^~

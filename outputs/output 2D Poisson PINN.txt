@@ -1,0 +1,34 @@
+ 
+
+Mean solve time for arch=[5, 1]: 0.6814015150070191
+Mean eval time for arch=[5, 1]: 0.03588995933532715
+L2 norm error for arch=[5, 1]: 0.09320791065692902
+L2 norm error relative for arch=[5, 1]: 0.7574042677879333
+Mean solve time for arch=[20, 1]: 28.038936734199524
+Mean eval time for arch=[20, 1]: 0.02583310604095459
+L2 norm error for arch=[20, 1]: 0.016994424164295197
+L2 norm error relative for arch=[20, 1]: 0.13809610903263092
+Mean solve time for arch=[40, 1]: 2.116267275810242
+Mean eval time for arch=[40, 1]: 0.019852638244628906
+L2 norm error for arch=[40, 1]: 0.019983725622296333
+L2 norm error relative for arch=[40, 1]: 0.16238707304000854
+Mean solve time for arch=[5, 5, 1]: 1.3060791969299317
+Mean eval time for arch=[5, 5, 1]: 0.020095038414001464
+L2 norm error for arch=[5, 5, 1]: 0.010660381056368351
+L2 norm error relative for arch=[5, 5, 1]: 0.08662588894367218
+Mean solve time for arch=[20, 20, 1]: 2.959709572792053
+Mean eval time for arch=[20, 20, 1]: 0.018343043327331544
+L2 norm error for arch=[20, 20, 1]: 0.013511721976101398
+L2 norm error relative for arch=[20, 20, 1]: 0.10979578644037247
+Mean solve time for arch=[40, 40, 1]: 5.878779816627502
+Mean eval time for arch=[40, 40, 1]: 0.018529582023620605
+L2 norm error for arch=[40, 40, 1]: 0.019598767161369324
+L2 norm error relative for arch=[40, 40, 1]: 0.1592589020729065
+Mean solve time for arch=[5, 5, 5, 1]: 2.0459522008895874
+Mean eval time for arch=[5, 5, 5, 1]: 0.02172667980194092
+L2 norm error for arch=[5, 5, 5, 1]: 0.018992772325873375
+L2 norm error relative for arch=[5, 5, 5, 1]: 0.15433461964130402
+Mean solve time for arch=[20, 20, 20, 1]: 4.871265006065369
+Mean eval time for arch=[20, 20, 20, 1]: 0.021327519416809083
+L2 norm error for arch=[20, 20, 20, 1]: 0.023717591539025307
+L2 norm error relative for arch=[20, 20, 20, 1]: 0.19272834062576294
