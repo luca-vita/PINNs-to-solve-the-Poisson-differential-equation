@@ -40,4 +40,4 @@ This project aims to explore the possibility of using PINNs to solve partial dif
 
 The FEM method is more reliable in terms of speed and accuracy for solving Poisson equations, while PINNs offer potential, especially when repeated evaluation is needed but require more optimization to match the efficiency of FEM.
 
-For more details, please refer to the [project report](report/Report%20on%20Solving%201D%20and%202D%20Poisson%20Equations%20Using%20Finite%20Element%20Method%20(FEM)%20and%20Physics-Informed%20Neural%20Networks%20(PINNs).pdf).
+For more details, please refer to the [project report](Report%20on%20Solving%201D%20and%202D%20Poisson%20Equations%20Using%20Finite%20Element%20Method%20(FEM)%20and%20Physics-Informed%20Neural%20Networks%20(PINNs).pdf).
